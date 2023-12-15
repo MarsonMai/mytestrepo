@@ -14,4 +14,7 @@ public class Test {
     public int getSum2() {
         return sum;
     }
+    public int getSome() {
+        return sum;
+    }
 }
