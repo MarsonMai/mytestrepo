@@ -11,4 +11,7 @@ public class Test {
         return first + second;
     }
 
+    public int getSum2() {
+        return sum;
+    }
 }
