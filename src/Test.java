@@ -10,5 +10,7 @@ public class Test {
     public int add(int first, int second){
         return first + second;
     }
-
+    public void Partner1(int multi,int power) {
+        System.out.println(multi * power);
+    }
 }
