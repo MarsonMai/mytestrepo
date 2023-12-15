@@ -11,4 +11,9 @@ public class Test {
         return first + second;
     }
 
+    public void partner2 (int f, int s){
+        int product = f * s;
+        System.out.println(product);
+    }
+
 }
