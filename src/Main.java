@@ -4,5 +4,4 @@ public class Main {
         System.out.println("Mmm");
         System.out.println(" awawdjfjfafafw");
     }
-
 }
