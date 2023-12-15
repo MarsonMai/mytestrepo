@@ -1,4 +1,6 @@
 public class Test {
+
+    private int sum;
     public Test() {
     }
     public void Class(int num) {
